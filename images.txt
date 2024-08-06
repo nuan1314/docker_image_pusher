@@ -1,1 +1,2 @@
 yangchuansheng/derper:latest
+nginx
