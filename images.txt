@@ -1,2 +1,1 @@
-yangchuansheng/derper:latest
-nginx
+byniht/qinglong:2.10.2
