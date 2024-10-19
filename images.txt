@@ -1,2 +1,1 @@
-byniht/qinglong:2.10.2
-nginx
+whyour/qinglong:2.17.4
