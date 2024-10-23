@@ -1,1 +1,1 @@
-onething1/wxedge
+images-cluster.xycloud.com/wxedge/wxedge:latest
