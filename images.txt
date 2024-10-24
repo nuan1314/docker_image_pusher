@@ -1,1 +1,1 @@
-images-cluster.xycloud.com/wxedge/wxedge:latest
+jeessy/ddns-go:latest
