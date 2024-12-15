@@ -1,1 +1,1 @@
-ffdfgdfg/nps:latest
+ffdfgdfg/nps
