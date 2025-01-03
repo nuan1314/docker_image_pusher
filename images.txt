@@ -1,2 +1,1 @@
-adolfintel/speedtest
-linuxserver/emby
+emby/embyserver
