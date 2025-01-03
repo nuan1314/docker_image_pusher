@@ -1,1 +1,2 @@
-weejewel/wg-easy
+adolfintel/speedtest
+linuxserver/emby
