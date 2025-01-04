@@ -1,1 +1,1 @@
-emby/embyserver
+plexinc/pms-docker:latest
