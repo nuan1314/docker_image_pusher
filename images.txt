@@ -1,1 +1,1 @@
-plexinc/pms-docker:latest
+xgheaven/homebox
