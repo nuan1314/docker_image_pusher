@@ -1,1 +1,1 @@
-jellyfin/jellyfin:latest
+nyanmisaka/jellyfin
