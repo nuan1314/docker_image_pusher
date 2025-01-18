@@ -1,1 +1,1 @@
-nyanmisaka/jellyfin
+lovechen/embyserver
