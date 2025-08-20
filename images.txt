@@ -1,1 +1,1 @@
-nyanmisaka/jellyfin
+tailscale/tailscale
