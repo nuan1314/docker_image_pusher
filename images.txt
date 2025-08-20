@@ -1,1 +1,1 @@
-tailscale/tailscale
+easytier/easytier
