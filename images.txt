@@ -1,1 +1,1 @@
-easytier/easytier
+jeessy/ddns-go
