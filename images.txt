@@ -1,1 +1,1 @@
-linuxserver/openvpn-as
+lscr.io/linuxserver/openvpn-as
