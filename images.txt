@@ -1,1 +1,1 @@
-openvpn/openvpn-as
+siomiz/softethervpn
