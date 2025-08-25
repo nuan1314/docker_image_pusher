@@ -1,1 +1,1 @@
-siomiz/softethervpn
+hwdsl2/ipsec-vpn-server:debian
