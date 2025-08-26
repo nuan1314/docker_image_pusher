@@ -1,1 +1,1 @@
-hwdsl2/ipsec-vpn-server:debian
+kylemanna/openvpn
