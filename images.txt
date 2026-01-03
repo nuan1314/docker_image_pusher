@@ -1,1 +1,1 @@
-emby/embyserver:latest
+ghcr.io/wg-easy/wg-easy:latest
